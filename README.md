@@ -1,3 +1,5 @@
+# REFERENCES
+
 Ajayi, S.I.(2001). What Africa needs to do to benefit from Globalization. Finance & Development 38(4).  International Monetary Fund. Link: https://www.imf.org/external/pubs/ft/fandd/2001/12/ajayi.htm   
 
 Barro, R. and Sala-i-Martin, X. (1997). Technological difussion, convergence, and growth. Journal of Economic Growth,  2(1-26).
