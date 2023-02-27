@@ -1,10 +1,9 @@
 # REFERENCES
 
-Ajayi, S.I.(2001). What Africa needs to do to benefit from Globalization. Finance & Development 38(4).  International Monetary Fund. Link: https://www.imf.org/external/pubs/ft/fandd/2001/12/ajayi.htm   
+Ajayi, S.I.(2001). What Africa needs to do to benefit from Globalization. Finance & Development 38(4).  International Monetary Fund. [Link]( https://www.imf.org/external/pubs/ft/fandd/2001/12/ajayi.htm)   
 
 Barro, R. and Sala-i-Martin, X. (1997). Technological difussion, convergence, and growth. Journal of Economic Growth,  2(1-26).
-ECLAC/CEPAL (2002).  Globalization and Development.  The twenty-ninth session of the ECLAC, Brasilia DF, Brasil, May 2002.  Link: 
-https://repositorio.cepal.org/bitstream/handle/11362/2726/S2002903_en.pdf%3Bjsessionid%3D29368DCA38C18D84A23864EC62BACB3A%3Fsequence%3D2
+ECLAC/CEPAL (2002).  Globalization and Development.  The twenty-ninth session of the ECLAC, Brasilia DF, Brasil, May 2002. [Link](https://repositorio.cepal.org/bitstream/handle/11362/2726/S2002903_en.pdf%3Bjsessionid%3D29368DCA38C18D84A23864EC62BACB3A%3Fsequence%3D2)
 
 Cirera, X., Comin, D. and Cruz, M. (2022).  Bridging the Technology Divide. The World Bank.
 
@@ -31,8 +30,7 @@ OECD (2013). Labour productivity growth.  In OECD Factbook 2013: Economic, envir
 
 OECD, ADB and UNDP (2014). African Economic Outlook 2014. OECD Publishing.
 
-Outtara, A. (1997). The challenges of globalization for Africa. Speech. International Monetary Fund. 
-Link: https://www.imf.org/en/News/Articles/2019/28/04/53/sp052197
+Outtara, A. (1997). The challenges of globalization for Africa. Speech. International Monetary Fund. [Link](https://www.imf.org/en/News/Articles/2019/28/04/53/sp052197)
 
 Rodrick, D.(2013a). Unconditional convergence in manufacturing. Quaterly Journal of Economics, 128(1). 
 
